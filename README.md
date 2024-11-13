@@ -6,9 +6,9 @@ Dedicated Android Developer in designing, developing, testing, and maintaining i
 * Architecture: MVVM Desgin Pattern
 
 # Some Facts:
-* 📄 Know about my experiences [here](https://drive.google.com/file/d/1T7d1i_2ofMyR2P1cq3FVldQTB7b3lcSM/view?usp=drive_link)
+* 📄 Know about my experiences [here](https://drive.google.com/file/d/1lS3AkOne6t16uJehp62OSi1GK-iqsosX/view?usp=sharing)
 * I have successfully completed the Nanodegree from Udacity in Advanced Android Kotlin Development [view](https://graduation.udacity.com/confirm/CFJ3EGMX)
-* 📫 How to reach me: abdohassan2000@hotmail.com
+* 📫 How to reach me: abdallah.hassan.esmail@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
